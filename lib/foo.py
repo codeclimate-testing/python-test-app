@@ -61,7 +61,7 @@ def cyclomatically_complex():
   elif baz or foo and bar or buzz:
     [f for foo in bar]
   elif bar and baz or buzz and foo:
-    return False
+    [f for baz in buzz]
 
 def high_param(foo, bar, baz, buzz, threshold=5):
   pass
