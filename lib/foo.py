@@ -1,13 +1,13 @@
-import foo from bar
-import bar from baz
-import foo from bar
-import foo from bar
-import foo from bar
-import foo from bar
-import foo from bar
-import foo from bar
-import foo from bar
-import foo from bar
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
+from bar import foo
 
 def long_method(self):
   foo()
