@@ -14,15 +14,7 @@ def complex():
                                                     if true:
                                                         if true:
                                                             if true:
-                                                                if true:
-                                                                    if true:
-                                                                        if true:
-                                                                            if true:
-                                                                                if true:
-                                                                                    if true:
-                                                                                        if true:
-                                                                                            if true:
-                                                                                                return "hi"
+                                                                return "hi"
 def complex2():
     if true:
         if true:
